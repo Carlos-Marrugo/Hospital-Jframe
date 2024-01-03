@@ -5,26 +5,29 @@ Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
 
 <table align="left">
   <tr border="none">
-    <td width="30%" align="center">
+    <td width="40%" align="center">
       <p align="center">
         <img align="center" width=100% src="hospitalimagenes/Login Hospital github.jpg" alt="VIDEO" />
       </p>
     </td>
-    <td width="30%" align="center">
+    <td width="40%" align="center">
       <p align="center">
         <img align="center" width=100% src="hospitalimagenes/Ventana Recepcionista.PNG" alt="VIDEO" />
       </p>
     </td>
-    <td width="30%" align="center">
+  </tr>
+  <tr border="none">
+    <td width="40%" align="center">
       <p align="center">
-        <img align="center" width=100% src="hospitalimagenes/Ventana Recepcionista.PNG" alt="VIDEO" />
+        <img align="center" width=100% src="Imagenes/Empleados p1.png" alt="VIDEO" />
       </p>
     </td>
-    <td width="30%" align="center">
+    <td width="40%" align="center">
       <p align="center">
         <img align="center" width=100% src="hospitalimagenes/Ventana Recepcionista.PNG" alt="VIDEO" />
       </p>
     </td>
   </tr>
 </table>
+
 
