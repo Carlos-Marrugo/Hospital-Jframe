@@ -1,7 +1,6 @@
 # Hospital-Jframe
 Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
 <h2>Imagenes del Proyecto</h2>
-<h2>Imagenes del Proyecto</h2>
 
 <table align="left">
   <tr border="none">
@@ -29,5 +28,10 @@ Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
     </td>
   </tr>
 </table>
+
+<h2>Informació</h2>
+<p>Debes tener descargado Xamp para poder ejecutar el Proyecto
+   Cada ventana de este proyecto tiene librerias que si no las
+   agregas a tu proyecto puede que te salga error!</p>
 
 
