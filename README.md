@@ -29,7 +29,7 @@ Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
   </tr>
 </table>
 
-<h2>Informació</h2>
+<h2>Información</h2>
 <p>Debes tener descargado Xamp para poder ejecutar el Proyecto
    Cada ventana de este proyecto tiene librerias que si no las
    agregas a tu proyecto puede que te salga error!</p>
