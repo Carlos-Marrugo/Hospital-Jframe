@@ -42,9 +42,10 @@ Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
    es la ventana principal y asi accesediendo a esta ventana!!!!</p>
 
  <h1>Descargar precionando en el Iconos👇👇👇</h1>  
- <p align="center">
+  <td width="40%" align="center">
+   <p align="center">
         <a href="https://sites.google.com/view/programacioncmv/jframe" target="blank"><img align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="@unsimpledev"  /></a>
-
+ </td>
 <h1>Alguna duda?👇👇👇</h1> 
 📫 Contacto: **elrprogramadortutoriales@gmail.com**
 
