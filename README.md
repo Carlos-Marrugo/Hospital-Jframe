@@ -1,7 +1,7 @@
 # Hospital-Jframe
 Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
 
-<h2 >Tutoriales👨🏻‍💻</h2>
+<h2 >Imagenes del Proyecto</h2>
 
 <table align="left" >
 <tr border="none">
