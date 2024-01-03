@@ -41,7 +41,7 @@ Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
    se puede ejecutar y ver su contenido, ejecutando el Login que
    es la ventana principal y asi accesediendo a esta ventana!!!!</p>
 
- <h1>Descargar precionando en el Iconos👇👇👇</h1>  
+ <h1>Descargar precionando en el Icono👇👇👇</h1>  
   <td width="40%" align="center">
    <p align="center">
         <a href="https://sites.google.com/view/programacioncmv/jframe" target="blank"><img align="center" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="@unsimpledev"  /></a>
