@@ -32,6 +32,13 @@ Proyecto Hospitalario con Jframe java + Base de datos Workbeanch + Xamp!
 <h2>Información</h2>
 <p>Debes tener descargado Xamp para poder ejecutar el Proyecto
    Cada ventana de este proyecto tiene librerias que si no las
-   agregas a tu proyecto puede que te salga error!</p>
+   agregas a tu proyecto puede que te salga error! 
+
+   🚨OJO!🚨
+   Ten en cuenta que es algunas ventanas no se podran ejecutar
+   particular, queriendo ejecutar solo una ventana, como lo es
+   la ventana del doctor, que esta nombrada como ¨VentanaD¨, 
+   se puede ejecutar y ver su contenido, ejecutando el Login que
+   es la ventana principal y asi accesediendo a esta ventana!!!!</p>
 
 
